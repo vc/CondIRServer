@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "sstream": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp"
+    },
+    "editor.insertSpaces": false,
+    "editor.tabCompletion": "on",
+		"editor.tabSize": 2,
+		"editor.acceptSuggestionOnEnter": "smart"
+}
